@@ -1,5 +1,5 @@
 {
-    "name": "CipherX",
+    "name": "cipherx",
     "version": "1.0.0",
     "description": "CipherX from rvftime",
     "main": "server.js",
